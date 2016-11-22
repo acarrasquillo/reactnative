@@ -12,7 +12,7 @@ In difference to other mobile development frameworks like ionic or framework7 wh
 ### Javascript **ES 2015 Syntax** vs **Old-School Syntax**
 The ES 2015 Syntax was introduced in 2015, it allows you to better organize your code. Below are some use cases shown in class.
 
-#### Example1: ** Declaring Variables**
+#### Example1: **Declaring Variables**
 
 ```javascript
 var React = require('react-native');
