@@ -3,7 +3,7 @@ In difference to other mobile development frameworks like ionic or framework7 wh
 
 ### Diagram of how the React Native code gets translated to an actual application:
 
-![Figure 1](images/ReactNative-Diagram.png?raw=true "How the React Native code gets translated to an actual application")
+![Figure 1](images/ReactNative-Diagram.png "How the React Native code gets translated to an actual application")
 
 ## Starting the React Native project
 
